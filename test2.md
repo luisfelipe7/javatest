@@ -5,4 +5,4 @@ Using the next list do:
 
 1. Get the numbers who are divisor of other number in the list.
 2. Count how many  dividend has a divisor.
-3. Sort the list putting even and odd numbers.
+3. Sort the list putting first even and then odd numbers.
